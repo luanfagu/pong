@@ -1,0 +1,5 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"/home/luanf/RiderProjects/Pong/Pong/Content/ball.png","/home/luanf/RiderProjects/Pong/Pong/Content/bin/DesktopGL/Content/ball.xnb","TextureProcessor","Texture2DContent",221,4181,0.1165563
+"/home/luanf/RiderProjects/Pong/Pong/Content/board.png","/home/luanf/RiderProjects/Pong/Pong/Content/bin/DesktopGL/Content/board.xnb","TextureProcessor","Texture2DContent",5339,3686485,0.2063913
+"/home/luanf/RiderProjects/Pong/Pong/Content/player.png","/home/luanf/RiderProjects/Pong/Pong/Content/bin/DesktopGL/Content/player.xnb","TextureProcessor","Texture2DContent",277,16469,0.1172821
+"/home/luanf/RiderProjects/Pong/Pong/Content/Regular.spritefont","/home/luanf/RiderProjects/Pong/Pong/Content/bin/DesktopGL/Content/Regular.xnb","FontDescriptionProcessor","SpriteFontContent",2014,37922,0.2002964

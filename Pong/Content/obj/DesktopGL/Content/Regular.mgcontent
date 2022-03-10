@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>/home/luanf/RiderProjects/Pong/Pong/Content/Regular.spritefont</SourceFile>
+  <SourceTime>2022-03-09T12:48:04.9338606-03:00</SourceTime>
+  <DestFile>/home/luanf/RiderProjects/Pong/Pong/Content/bin/DesktopGL/Content/Regular.xnb</DestFile>
+  <DestTime>2022-03-09T12:48:10.3702288-03:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2020-08-10T13:17:54-03:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2020-08-10T13:17:54-03:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
